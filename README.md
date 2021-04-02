@@ -29,4 +29,15 @@ Source Code : [Day 1](/Day1-FirstStepsinSwift)
 - Enums are a way of grouping related values so you can use them without spelling mistakes.
 - You can attach raw values to enums so they can be created from integers or strings, or you can add associated values to store additional information about each case.
 
-Source Code : [Day 2](/Day2-ComplexDataTypes)  
+Source Code : [Day 2](/Day2-ComplexDataTypes) 
+
+### Day 3: Operators and Conditions
+
+- Swift has operators for doing arithmetic and for comparison; they mostly work like you already know.
+- There are compound variants of arithmetic operators that modify their variables in place: +=, -=, and so on.
+- You can use if, else, and else if to run code based on the result of a condition.
+- Swift has a ternary operator that combines a check with true and false code blocks. Although you might see it in other code, I wouldn’t recommend using it yourself.
+- If you have multiple conditions using the same value, it’s often clearer to use switch instead.
+- You can make ranges using ..< and ... depending on whether the last number should be excluded or included.
+
+Source Code : [Day 3](/Day3-OperatorsAndConditions) 
